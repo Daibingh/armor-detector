@@ -32,8 +32,8 @@ int main()
 	vector<string> list = getList("红典型图片.txt");
 	Mat frame;
 #ifdef USEVIDEO
-	string red_file = "RedCar.avi";
-	string blue_file = "BlueCar.avi";
+	string red_file = "D:\\我的文档\\Visual Studio 2013\\Projects\\装甲视频\\RedCar.avi";
+	string blue_file = "D:\\我的文档\\Visual Studio 2013\\Projects\\装甲视频\\BlueCar.avi";
 	VideoCapture cap(red_file);
 	
 	if (!cap.isOpened())
