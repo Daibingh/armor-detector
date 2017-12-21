@@ -5,4 +5,4 @@ d:\program files\opencv_3.0.0\build\include\opencv2\core\utility.hpp : warning C
 d:\我的文档\visual studio 2013\projects\my_armordetector\my_armordetector\armordetector.h(57): warning C4520: “ArmorDetector”: 指定了多个默认构造函数
 d:\我的文档\visual studio 2013\projects\my_armordetector\my_armordetector\armordetector.h(53): warning C4305: “初始化”: 从“double”到“float”截断
 d:\我的文档\visual studio 2013\projects\my_armordetector\my_armordetector\armordetector.h(55): warning C4305: “初始化”: 从“double”到“float”截断
-  My_ArmorDetector.vcxproj -> d:\我的文档\Visual Studio 2013\Projects\My_ArmorDetector\Debug\My_ArmorDetector.exe
+  My_ArmorDetector.vcxproj -> d:\我的文档\visual studio 2013\Projects\My_ArmorDetector\Debug\My_ArmorDetector.exe
