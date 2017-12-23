@@ -5,4 +5,20 @@ d:\program files\opencv_3.0.0\build\include\opencv2\core\utility.hpp : warning C
 d:\我的文档\visual studio 2013\projects\my_armordetector\my_armordetector\armordetector.h(57): warning C4520: “ArmorDetector”: 指定了多个默认构造函数
 d:\我的文档\visual studio 2013\projects\my_armordetector\my_armordetector\armordetector.h(53): warning C4305: “初始化”: 从“double”到“float”截断
 d:\我的文档\visual studio 2013\projects\my_armordetector\my_armordetector\armordetector.h(55): warning C4305: “初始化”: 从“double”到“float”截断
-  My_ArmorDetector.vcxproj -> d:\我的文档\visual studio 2013\Projects\My_ArmorDetector\Debug\My_ArmorDetector.exe
+  ArmorDetector.cpp
+d:\program files\opencv_3.0.0\build\include\opencv2\core\mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\program files\opencv_3.0.0\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\program files\opencv_3.0.0\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\我的文档\visual studio 2013\projects\my_armordetector\my_armordetector\armordetector.h(57): warning C4520: “ArmorDetector”: 指定了多个默认构造函数
+d:\我的文档\visual studio 2013\projects\my_armordetector\my_armordetector\armordetector.h(53): warning C4305: “初始化”: 从“double”到“float”截断
+d:\我的文档\visual studio 2013\projects\my_armordetector\my_armordetector\armordetector.h(55): warning C4305: “初始化”: 从“double”到“float”截断
+d:\我的文档\visual studio 2013\projects\my_armordetector\my_armordetector\armordetector.cpp(70): warning C4018: “<”: 有符号/无符号不匹配
+d:\我的文档\visual studio 2013\projects\my_armordetector\my_armordetector\armordetector.cpp(116): warning C4018: “<”: 有符号/无符号不匹配
+d:\我的文档\visual studio 2013\projects\my_armordetector\my_armordetector\armordetector.cpp(86): warning C4101: “dmean”: 未引用的局部变量
+d:\我的文档\visual studio 2013\projects\my_armordetector\my_armordetector\armordetector.cpp(178): warning C4018: “<”: 有符号/无符号不匹配
+d:\我的文档\visual studio 2013\projects\my_armordetector\my_armordetector\armordetector.cpp(180): warning C4018: “<”: 有符号/无符号不匹配
+d:\我的文档\visual studio 2013\projects\my_armordetector\my_armordetector\armordetector.cpp(185): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\我的文档\visual studio 2013\projects\my_armordetector\my_armordetector\armordetector.cpp(215): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码...
+  LINK : 没有找到 D:\我的文档\Visual Studio 2013\Projects\My_ArmorDetector\Debug\My_ArmorDetector.exe 或上一个增量链接没有生成它；正在执行完全链接
+  My_ArmorDetector.vcxproj -> D:\我的文档\Visual Studio 2013\Projects\My_ArmorDetector\Debug\My_ArmorDetector.exe

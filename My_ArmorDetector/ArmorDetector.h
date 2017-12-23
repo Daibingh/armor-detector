@@ -46,7 +46,7 @@ private:
 	int m_contoursTh = 8;
 	float m_ledAngleTh = 15.0f;
 	float m_ledAspectTh = 1.2f;
-	float m_dMeanTh = 2.0f;
+	float m_dMeanTh = 1.5f;
 	//int m_xEx = 10, m_yEx = 10;
 	float m_inAngleTh = 15.0; //¼Ð½Ç
 	float m_dAngleTh = 15.0; //Çã½Ç
